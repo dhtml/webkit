@@ -21,9 +21,8 @@ Then copy the webkit.exe and its dependencies into the support/webkit folder of 
 
 And that should be it.
 
-```
 ### Support
-[Visit the project page](http://www.africoders.com/forum/phpbrowserbox) for documentation, configuration, and more advanced usage examples. 
+Visit the [project page](http://www.africoders.com/forum/phpbrowserbox) for documentation, configuration, and more advanced usage examples. 
 
 
 ### Author
