@@ -9,6 +9,7 @@ You are looking at the node webkit browser that powers [phpbrowserbox](http://ww
  * It allows modification of the main browser component in terms of look and feel.
  * It allows changing of the default icon of the phpbrowserbox icon when application is started.
 
+If you looking for the main phpbrowserbox binary, please [check here](https://github.com/dhtml/phpbrowserbox).
 
 ## Installation and Usage
 
